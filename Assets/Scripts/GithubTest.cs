@@ -9,6 +9,8 @@ public class GithubTest : MonoBehaviour
     {
         // this is a test comment
         // This is really cool stuff
+
+        // This is another change
     }
 
     // Update is called once per frame
